@@ -14,6 +14,7 @@
 | ✈️ Simulateur Avion | Simulateur de vol 3D | [Démo](https://yoannservices.github.io/simulateur-avion/) · [Code](https://github.com/yoannservices/simulateur-avion) |
 | 🏍️ Simulateur Moto | Moto sur route de col | [Démo](https://yoannservices.github.io/simulateur-moto/) · [Code](https://github.com/yoannservices/simulateur-moto) |
 | 🚆 Simulateur Train | Conduite ferroviaire : gares, signalisation, KVB | [Démo](https://yoannservices.github.io/simulateur-train/) · [Code](https://github.com/yoannservices/simulateur-train) |
+| 🚁 Simulateur FPV | Drone FPV acro : tunnels, bando, course, suivi de cible | [Démo](https://yoannservices.github.io/simulateur-fpv/) · [Code](https://github.com/yoannservices/simulateur-fpv) |
 | 🚗 Drift King | Drift en montagne | [Démo](https://yoannservices.github.io/drift-king/) · [Code](https://github.com/yoannservices/drift-king) |
 | ⚙️ Banc d'essai moteur | Moteur, boîte et sons | [Démo](https://yoannservices.github.io/banc-essai-moteur/) · [Code](https://github.com/yoannservices/banc-essai-moteur) |
 | 🛴 Kukirin | Trottinette, livraisons et quêtes | [Démo](https://yoannservices.github.io/kukirin/) · [Code](https://github.com/yoannservices/kukirin) |
