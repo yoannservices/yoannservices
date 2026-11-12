@@ -4,8 +4,3 @@
 # 🚀 Mes projets
 
 👉 **[Voir tous mes projets](https://yoannservices.github.io/)** : simulateurs 3D, jeux, outils, développement et éducation, réunis sur une seule page.
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yoannservices&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yoannservices&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoannservices&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
